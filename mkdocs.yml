@@ -4,3 +4,5 @@ theme:
 extra:
   version:
     provider: mike
+plugins:
+    - mkdocs-jupyter
